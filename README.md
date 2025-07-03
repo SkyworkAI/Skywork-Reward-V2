@@ -18,7 +18,7 @@
 
 ## 🔥 Highlights
 
-**Skywork-Reward-V2** is a series of eight reward models designed for versatility across a wide range of tasks, trained on a mixture of 26 million carefully curated preference pairs. While the Skywork-Reward-V2 series remains based on the Bradley-Terry model, we push the boundaries of training data scale and quality to achieve superior performance. Compared to the first generation of Skywork-Reward, the Skywork-Reward-V2 series offers the following major improvements:
+**Skywork-Reward-V2** is a series of eight reward models designed for versatility across a wide range of tasks, trained on a mixture of 26 million carefully curated preference pairs. While the Skywork-Reward-V2 series remains based on the Bradley-Terry model, we push the boundaries of training data scale and quality to achieve superior performance. Compared with the first generation of Skywork-Reward, the Skywork-Reward-V2 series offers the following major improvements:
 
 - **Trained on a significantly larger and higher-quality preference data mixture**, consisting of **26 million preference pairs** curated via a large-scale human-LLM synergistic pipeline.
 - **State-of-the-art performance on seven major reward model benchmarks**, including RewardBench v1, RewardBench v2, PPE Preference, PPE Correctness, RMB, RM-Bench, and JudgeBench.
